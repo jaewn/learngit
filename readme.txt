@@ -12,4 +12,3 @@ I am FEATURE1 branch.
 >>>>>>> feature1
 AAAAA
 BBBBB
-CCCCC

@@ -5,4 +5,8 @@ Add new Line.
 
 Add a new Branch.
 
+<<<<<<< HEAD
 I am MASTER branch.
+=======
+I am FEATURE1 branch.
+>>>>>>> feature1
